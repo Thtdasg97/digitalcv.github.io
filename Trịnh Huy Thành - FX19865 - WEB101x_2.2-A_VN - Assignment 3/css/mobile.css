@@ -1,0 +1,47 @@
+@media (max-width: 576px) {
+  /* body {
+    display: none;
+  } */
+  .container-information {
+    display: block;
+    border: none;
+  }
+
+  .infor-1,
+  .infor-2,
+  .infor-4,
+  .infor-5 {
+    border: none;
+  }
+  .row {
+    display: block;
+    margin: 0;
+  }
+  .align-information2 {
+    margin-left: 0;
+  }
+  .section-title {
+    margin-top: -40px;
+  }
+  .info-career {
+    margin-left: -23px;
+    margin-bottom: 20px;
+  }
+  .text-align {
+    padding-bottom: 20px;
+  }
+  .list-icons {
+    padding-bottom: 20px;
+  }
+  .border-line {
+    border-right: none;
+    border-bottom: 1px solid #d6c08d;
+  }
+  .img {
+    width: 1200px;
+  }
+
+  #footer {
+    padding: 2px;
+  }
+} ;

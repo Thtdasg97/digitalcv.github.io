@@ -1,0 +1,47 @@
+@media (max-width: 768px) {
+  /* body {
+    display: none;
+  } */
+  .text-picture {
+    display: none;
+  }
+  .infor-3 {
+    display: none;
+  }
+  .infor-1 {
+    margin-left: 0px;
+    margin-right: -200px;
+  }
+  .infor-2 {
+    margin-left: 0px;
+    margin-right: -300px;
+  }
+  .infor-4 {
+    margin-left: 0px;
+    margin-right: -200px;
+  }
+  .infor-5 {
+    margin-left: 0px;
+    /* margin-right: 100px; */
+  }
+  .section-title {
+    font-size: 25px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    margin-left: -50px;
+  }
+  .list-icons {
+    margin-left: -50px;
+    margin-top: -30px;
+  }
+
+  .align-information2 {
+    margin-left: 0;
+  }
+
+  .border-line {
+    border-right: 1px solid #d6c08d;
+    /* border-bottom: 1px solid #d6c08d; */
+  }
+  /* Career path */
+}
